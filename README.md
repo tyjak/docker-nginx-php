@@ -1,4 +1,5 @@
-docker
-======
+docker-nginx-fpm
+================
 
-Docker files/scripts for php development and CI testing using Teamcity Server
+Docker files/scripts for php development
+based on thatOn3guy work.
